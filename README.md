@@ -11,7 +11,7 @@ A fork that adds support for extracting additional metadata fields, including th
 
 ## TODO
 
-- [ ] Incorporate from [webappanalyzer] (https://github.com/enthec/webappanalyzer) the technology database by adding only new fields (eg. favicon)
+- [ ] Incorporate from [webappanalyzer](https://github.com/enthec/webappanalyzer) the technology database by adding only new fields (eg. favicon)
 - [ ] Add additional fields for analysis e.g. imgSrc etc.
 
 ## Example
