@@ -35,7 +35,10 @@ async function main() {
         "Example": {
             "description": "A short description of the technology.",
             "cats": [1],
-            "favicon": "12345", // MD5 hash of the favicon
+            "favicon": [
+                "12345",
+                "67890"
+            ], // MD5 hashes of the favicon
             "url": "example\\.com",
             "website": "https://example.com",
         }

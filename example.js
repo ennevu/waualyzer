@@ -18,7 +18,10 @@ async function main() {
             "cats": [
                 1
             ],
-            "favicon": "12345", // MD5 hash of the favicon
+            "favicon": [
+                "12345",
+                "22222"
+            ], // MD5 hashes of the favicon
             "url": "example\\.com",
             "website": "https://example.com",
         }
