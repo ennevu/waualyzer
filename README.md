@@ -2,7 +2,7 @@
 
 Wappalyzer Augmented is an augmentation of the famous and now closed-source Wappalyzer.
 
-A fork that adds support for extracting additional metadata fields, including the Favicon hash. This version aims to be fully backward compatible with the original Wappalyzer functionality while providing extended analysis capabilities. Please refer to [enthec's webappanalyzer](https://github.com/enthec/webappanalyzer) for plain wappalyzer use and up to date technologies.
+This project adds support for extracting additional metadata fields, including the Favicon hash. This version aims to be fully backward compatible with the original Wappalyzer functionality while providing extended analysis capabilities. Please refer to [enthec's webappanalyzer](https://github.com/enthec/webappanalyzer) for plain wappalyzer use and up to date technologies.
 
 ## Features
 
