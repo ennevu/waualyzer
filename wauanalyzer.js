@@ -662,7 +662,6 @@ const Wappalyzer = {
         values.forEach((value) => {
           const startTime = Date.now()
 
-          //BUGFIX SINCE IN Microsoft Remote Desktop Web Access pattern.path is taken instead of pattern
           if (!pattern.regex) {
             pattern = pattern[Object.keys(pattern)[0]]
           }
